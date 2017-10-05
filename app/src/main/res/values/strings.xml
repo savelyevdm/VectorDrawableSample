@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VectorDrawableSample</string>
+    <string name="tab_text_1">Icon</string>
+    <string name="tab_text_2">Image</string>
+    <string name="tab_text_3">Stars</string>
+    <string name="fragment_text_1">Vector image from Material Design Assets</string>
+    <string name="fragment_text_2">Vector image from SVG XML</string>
+    <string name="fragment_text_3">Rating bar for fun</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="selected_rating">Selected rating: %1$.1f</string>
+    <string name="lorem_ipsum">Vestibulum tristique vel nibh sit amet lacinia. Vestibulum eu tellus non eros sodales rutrum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam ut cursus leo, sit amet aliquam urna. Ut iaculis consequat massa, vel auctor enim ullamcorper rhoncus. Integer vel consectetur lorem, lobortis imperdiet ex. Sed mattis fermentum turpis, nec finibus lectus mattis a. Morbi et magna non est pretium efficitur in nec nunc. Donec cursus accumsan viverra. Curabitur bibendum neque et magna ultrices, ut eleifend diam hendrerit. Praesent luctus quam non orci dignissim molestie. Pellentesque at tempor neque. Aliquam erat volutpat. Sed pulvinar velit in tellus porttitor viverra. Vestibulum interdum ipsum nec odio iaculis, nec tincidunt turpis convallis. Pellentesque lorem nunc, luctus nec nisl a, posuere faucibus enim.</string>
+</resources>
